@@ -1,0 +1,8 @@
+com.example.contactogps.app-pngs-0 /home/nohadon/AndroidStudioProjects/UF2-A2_ContactoGPS1/app/build/generated/res/pngs/debug
+com.example.contactogps.app-resValues-1 /home/nohadon/AndroidStudioProjects/UF2-A2_ContactoGPS1/app/build/generated/res/resValues/debug
+com.example.contactogps.app-rs-2 /home/nohadon/AndroidStudioProjects/UF2-A2_ContactoGPS1/app/build/generated/res/rs/debug
+com.example.contactogps.app-mergeDebugResources-3 /home/nohadon/AndroidStudioProjects/UF2-A2_ContactoGPS1/app/build/intermediates/incremental/debug/mergeDebugResources/merged.dir
+com.example.contactogps.app-mergeDebugResources-4 /home/nohadon/AndroidStudioProjects/UF2-A2_ContactoGPS1/app/build/intermediates/incremental/debug/mergeDebugResources/stripped.dir
+com.example.contactogps.app-merged_res-5 /home/nohadon/AndroidStudioProjects/UF2-A2_ContactoGPS1/app/build/intermediates/merged_res/debug
+com.example.contactogps.app-debug-6 /home/nohadon/AndroidStudioProjects/UF2-A2_ContactoGPS1/app/src/debug/res
+com.example.contactogps.app-main-7 /home/nohadon/AndroidStudioProjects/UF2-A2_ContactoGPS1/app/src/main/res

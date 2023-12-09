@@ -1,0 +1,4 @@
+#Thu Oct 27 17:39:13 CEST 2022
+base.0=/home/nohadon/AndroidStudioProjects/UF1-1-A17-SQLite/app/build/intermediates/dex/debug/mergeDexDebug/out
+renamed.0=classes.dex
+path.0=classes.dex

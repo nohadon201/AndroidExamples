@@ -1,0 +1,82 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/nohadon/AndroidStudioProjects/UF1-1-A17-SQLite/app/build/intermediates/res/merged/debug/values_values.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/nohadon/AndroidStudioProjects/UF1-1-A17-SQLite/app/src/main/res/values/strings.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "19,71,125,177",
+                        "endColumns": "50,52,50,66",
+                        "endOffsets": "65,119,171,239"
+                    },
+                    "to": {
+                        "startLines": "5,6,7,8",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "189,240,293,344",
+                        "endColumns": "50,52,50,66",
+                        "endOffsets": "235,288,339,406"
+                    }
+                },
+                {
+                    "source": "/home/nohadon/AndroidStudioProjects/UF1-1-A17-SQLite/app/src/main/res/values/dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "110,64,19",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "150,104,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,145",
+                        "endColumns": "44,44,43",
+                        "endOffsets": "95,140,184"
+                    }
+                },
+                {
+                    "source": "/home/nohadon/AndroidStudioProjects/UF1-1-A17-SQLite/app/src/main/res/values/styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endColumns": "58",
+                        "endOffsets": "73"
+                    },
+                    "to": {
+                        "startLines": "9",
+                        "startColumns": "4",
+                        "startOffsets": "411",
+                        "endColumns": "57",
+                        "endOffsets": "464"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "/home/nohadon/AndroidStudioProjects/UF1-1-A17-SQLite/app/build/intermediates/res/merged/debug/values-large-v4_values-large-v4.arsc.flat",
+            "map": [
+                {
+                    "source": "/home/nohadon/AndroidStudioProjects/UF1-1-A17-SQLite/app/src/main/res/values-large/dimens.xml",
+                    "from": {
+                        "startLines": "4,3,2",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "111,64,19",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "151,105,58"
+                    },
+                    "to": {
+                        "startLines": "2,3,4",
+                        "startColumns": "4,4,4",
+                        "startOffsets": "55,100,146",
+                        "endColumns": "44,45,43",
+                        "endOffsets": "95,141,185"
+                    }
+                }
+            ]
+        }
+    ]
+}

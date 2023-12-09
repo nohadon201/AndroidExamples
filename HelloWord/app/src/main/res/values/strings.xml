@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HelloWord</string>
+    <string name="text_Num">El següent botó s\'ha pulsat </string>
+</resources>

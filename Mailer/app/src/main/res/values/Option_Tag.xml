@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="tags_email">
+        <item>Urgent</item>
+        <item>Cachondeo</item>
+        <item>Videos de Gatitos</item>
+        <item>CCEMA</item>
+        <item>Pasivo agresivo para marc</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,85 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/Layout"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:focusable="false" >
+
+    <TextView
+        android:id="@+id/textView1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_alignParentTop="true"
+        android:layout_marginTop="19dp"
+        android:text="Posisión Actual:" />
+
+    <EditText
+        android:id="@+id/txtLatitud"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/textView1"
+        android:ems="10"
+        android:focusable="false"
+        android:inputType="none" >
+
+        <requestFocus />
+    </EditText>
+
+    <EditText
+        android:id="@+id/txtLongitud"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txtLatitud"
+        android:ems="10"
+        android:focusable="false" />
+
+    <EditText
+        android:id="@+id/txtPrecision"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/txtLongitud"
+        android:ems="10"
+        android:focusable="false" />
+
+    <Button
+        android:id="@+id/btnDesactivar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@+id/txtPrecision"
+        android:layout_marginTop="16dp"
+        android:text="Desactivar" />
+
+    <Button
+        android:id="@+id/btnActivar"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignBaseline="@+id/btnDesactivar"
+        android:layout_alignBottom="@+id/btnDesactivar"
+        android:layout_alignParentLeft="true"
+        android:text="Activar" />
+
+    <TextView
+        android:id="@+id/TextView01"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/btnActivar"
+        android:layout_marginTop="14dp"
+        android:text="Estado proveedor:" />
+
+    <EditText
+        android:id="@+id/txtEstado"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_alignParentLeft="true"
+        android:layout_below="@+id/TextView01"
+        android:layout_marginTop="23dp"
+        android:ems="10"
+        android:focusable="false" />
+
+</RelativeLayout>

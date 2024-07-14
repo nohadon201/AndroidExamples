@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name" translatable="false">Projecte_M8_ UF1_PolGonzalo</string>
+    <string name="Edit_App" translatable="true">Editar Nota</string>
+    <string name="Title_App">Lista de la compra</string>
+    <string name="Saving">Guardar Nota</string>
+    <string name="Title_Edit">Título</string>
+    <string name="Description_Edit">Descripción</string>
+    <string name="Delete" translatable="true">Borrar</string>
+    <string name="configuration" translatable="true">Ajustes</string>
+    <string name="title_activity_settings" translatable="false">SettingsActivity</string>
+
+    <!-- Preference Titles -->
+    <string name="messages_header" translatable="false">Messages</string>
+    <string name="sync_header" translatable="false">Sync</string>
+
+    <!-- Messages Preferences -->
+    <string name="signature_title" translatable="false">Your signature</string>
+    <string name="reply_title" translatable="false">Default reply action</string>
+
+    <!-- Sync Preferences -->
+    <string name="sync_title" translatable="false">Sync email periodically</string>
+    <string name="attachment_title" translatable="false">Download incoming attachments</string>
+    <string name="attachment_summary_on" translatable="false">Automatically download attachments for incoming emails
+    </string>
+    <string name="attachment_summary_off" translatable="false">Only download attachments when manually requested</string>
+</resources>

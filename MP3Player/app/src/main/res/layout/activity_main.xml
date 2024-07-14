@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textColor="@color/black"
+        android:text="SONGS"
+        android:textSize="20dp"
+        android:layout_centerHorizontal="true"
+        android:textStyle="bold"
+        android:padding="10dp"
+        android:id="@+id/songsText"
+        />
+    <ImageView
+        android:layout_width="40dp"
+        android:layout_height="70dp"
+        android:src="@drawable/btnmenurecord"
+        android:layout_below="@id/songsText"
+        android:layout_alignParentEnd="true"
+        android:layout_marginRight="30dp"
+        android:id="@+id/menuRecordBtn"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="NO SONGS FOUND"
+        android:layout_centerInParent="true"
+        android:layout_below="@id/menuRecordBtn"
+        android:id="@+id/no_songs_text"
+        android:visibility="gone"/>
+    <androidx.recyclerview.widget.RecyclerView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:id="@+id/recyclerView"
+        android:layout_below="@id/menuRecordBtn"/>
+
+</RelativeLayout>

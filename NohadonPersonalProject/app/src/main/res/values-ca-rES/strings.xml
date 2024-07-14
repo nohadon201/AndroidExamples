@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="Title_App" translatable="true">Llista de la compra</string>
+    <string name="Edit_App" translatable="true">Editar Nota</string>
+    <string name="Saving" translatable="true">Guardar Nota</string>
+    <string name="Title_Edit" translatable="true">Títol</string>
+    <string name="Description_Edit" translatable="true">Descripció</string>
+    <string name="Delete" translatable="true">Esborrar</string>
+    <string name="configuration" translatable="true">Configuració</string>
+</resources>

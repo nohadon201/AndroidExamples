@@ -1,0 +1,33 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical">
+
+    <FrameLayout
+        android:id="@+id/settings"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent" />
+    <TextView
+        android:id="@+id/sizeText"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Tamany de la lletra"
+        android:textStyle="bold"/>
+
+    <Button
+        android:id="@+id/SumSizeBut"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="sumSize"
+        android:text="+"
+        android:textColor="#FFFFFF"/>
+    <Button
+        android:id="@+id/MinSizeBut"
+        android:layout_width="wrap_content"
+        android:text="-"
+        android:layout_height="wrap_content"
+        android:onClick="minusSize"
+        android:textColor="@color/white"/>
+</LinearLayout>

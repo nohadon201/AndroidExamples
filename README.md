@@ -20,5 +20,5 @@ This repository contains a series of Android Studio projects, each located in it
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/your-username/android-studio-projects.git
+   git clone git@github.com:nohadon201/AndroidExamples.git
 

@@ -14,7 +14,8 @@ This repository contains a series of Android Studio projects, each located in it
 - **SQLLite**
 - **GPS**
 
-
+## Requisits
+- **Java 8**
 ## How to Use
 
 1. Clone the repository to your local machine:
